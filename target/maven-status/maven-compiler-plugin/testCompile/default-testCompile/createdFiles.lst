@@ -1,0 +1,5 @@
+restAssuredTests/GetCall.class
+restAssuredTests/PostCall.class
+restAssuredTests/DeleteCall.class
+restAssuredModels/Products.class
+restAssuredTests/PutCall.class
